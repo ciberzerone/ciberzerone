@@ -60,7 +60,7 @@ Aquí algunos de los proyectos más importantes en los que he trabajado:
 2. **[Campus Curso 42]** - Desarrollo de los proyectos en Cursus del Campus 42.
    - 🔗 [Enlace al repositorio](https://github.com/ciberzerone/Campus42_Barcelona_Cursus)
 
-3. **[Nombre del Proyecto 3]** - Breve descripción del proyecto, tecnologías utilizadas y un enlace.
+3. **[Data Analist - It Academy]** - Desarrollo de los sprint del bootcamp en la It Academy de Barcelona Activa.
    - 🔗 [Enlace al repositorio](https://github.com/ciberzerone/it_Academy_Data_Scientist)
 
 
