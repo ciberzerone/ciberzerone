@@ -68,7 +68,7 @@ Aquí algunos de los proyectos más importantes en los que he trabajado:
 
 ### 📊 **Estadísticas de GitHub:**
 
-![Gianmarco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Gianmarco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciberzerone&show_icons=true&theme=radical)
 
 ---
 
