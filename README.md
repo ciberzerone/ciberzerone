@@ -63,13 +63,24 @@ Aquí algunos de los proyectos más importantes en los que he trabajado:
 3. **[Nombre del Proyecto 3]** - Breve descripción del proyecto, tecnologías utilizadas y un enlace.
    - 🔗 [Enlace al repositorio](https://github.com/tu-usuario/nombre-del-proyecto-3)
 
+
+---
+
+### 📊 **Estadísticas de GitHub:**
+
+![Gianmarco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+---
+
+
 ---
 
 ## Cómo contactarme 📫
 
-- 🌐 [Tu página web o portafolio](https://tu-sitio-web.com)
+- 🌐 [Portafolio](https://tu-sitio-web.com)
 - 💼 [LinkedIn](https://linkedin.com/in/gianmarcobeltran)
 - ✉️ [Email](mailto:gianmarcobeltran@gmai.com)
+- 📫 <a href="https://github.com/ciberzerone/ciberzerone/blob/main/script/agregame.vcf">Agendame </a>
 
 ---
 
