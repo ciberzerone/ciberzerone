@@ -47,21 +47,21 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo habitua
 - **Control de versiones**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-
+/*
 ---
 
 ## Proyectos Destacados 🚀
 
 Aquí algunos de los proyectos más importantes en los que he trabajado:
 
-1. **[Jarko Play]** - Proyecto Final en el bootcamp.
-   - 🔗 [Enlace al repositorio](https://github.com/tu-usuario/nombre-del-proyecto-1)
+1. **[Jarko Play]** - Proyecto Final en el bootcamp de Iron Hack.
+   - 🔗 [Enlace al repositorio](https://github.com/ciberzerone/JarkoPlay)   
    
-2. **[Campus Curso 42]** - Breve descripción del proyecto, tecnologías utilizadas y un enlace.
-   - 🔗 [Enlace al repositorio](https://github.com/tu-usuario/nombre-del-proyecto-2)
+2. **[Campus Curso 42]** - Desarrollo de los proyectos en Cursus del Campus 42.
+   - 🔗 [Enlace al repositorio](https://github.com/ciberzerone/Campus42_Barcelona_Cursus)
 
 3. **[Nombre del Proyecto 3]** - Breve descripción del proyecto, tecnologías utilizadas y un enlace.
-   - 🔗 [Enlace al repositorio](https://github.com/tu-usuario/nombre-del-proyecto-3)
+   - 🔗 [Enlace al repositorio](https://github.com/ciberzerone/it_Academy_Data_Scientist)
 
 
 ---
@@ -78,7 +78,7 @@ Aquí algunos de los proyectos más importantes en los que he trabajado:
 ## Cómo contactarme 📫
 
 - 🌐 [Portafolio](https://tu-sitio-web.com)
-- 💼 [LinkedIn](https://linkedin.com/in/gianmarcobeltran)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gianmarco-beltran-13959b232/)
 - ✉️ [Email](mailto:gianmarcobeltran@gmai.com)
 - 📫 <a href="https://github.com/ciberzerone/ciberzerone/blob/main/script/agregame.vcf">Agendame </a>
 
